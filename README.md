@@ -77,17 +77,4 @@ matched_color_hsv = histogram_matching_color_hsv(mandril_color, lena_color)
 #### Outputs:
 - Matched grayscale and color images.
 
-## File Structure
-
-```
-├── histogram_equalization.py      # Histogram equalization code
-├── histogram_matching.py          # Histogram matching code
-├── lena_gray_dark.jpg             # Grayscale input image
-├── livingroom_dark.jpg            # Color input image
-├── mandril_gray.jpg               # Source grayscale image
-├── lena_gray_512.jpg              # Target grayscale image
-├── mandril_color.jpg              # Source color image
-├── lena_color_512.jpg             # Target color image
-├── README.md                      # Project documentation
-```
 
